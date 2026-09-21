@@ -1,9 +1,9 @@
 # MERIDIAN-HEALTH-ANALYTICS
 ## Healthcare Facility Performance Analytics
 
-![Financial performance](/workspaces/MERIDIAN-HEALTH-ANALYTICS/images/Financial Performance Dashboard.png)
+![Financial performance](images/Financial%20Performance%20Dashboard.png)
 
-![Operational performance](/workspaces/MERIDIAN-HEALTH-ANALYTICS/images/Operational Performance.png)
+![Operational performance](images/Operational%20Performance.png)
 
 End-to-end data cleaning, business-rule validation, and two-page Power BI dashboard (Financial Performance & Operational Performance) built on a synthetic healthcare facility dataset consisting of five relational tables: **Patients, Visits, Diagnoses, Billing, and Staff**.
 
