@@ -1,10 +1,6 @@
 # MERIDIAN-HEALTH-ANALYTICS
 ## Healthcare Facility Performance Analytics
 
-![Financial performance](images/Financial%20Performance%20Dashboard.png)
-
-![Operational performance](images/Operational%20Performance.png)
-
 End-to-end data cleaning, business-rule validation, and two-page Power BI dashboard (Financial Performance & Operational Performance) built on a synthetic healthcare facility dataset consisting of five relational tables: **Patients, Visits, Diagnoses, Billing, and Staff**.
 
 This project simulates a real-world analyst workflow: raw data → business rule definition → data quality validation → reconciliation → dashboard build → stakeholder recommendations.
@@ -90,6 +86,8 @@ A few judgment calls were made explicit and documented rather than left ambiguou
 4. Revenue by visit type — treemap
 5. Outstanding balance composition by insurance type — pie chart
 
+![Financial performance](images/Financial%20Performance%20Dashboard.png)
+
 ### Page 2 — Operational Performance
 **KPIs:** Total Visits, Average Inpatient Length of Stay, % ER Visits, Average Visits per Physician
 
@@ -99,6 +97,8 @@ A few judgment calls were made explicit and documented rather than left ambiguou
 3. Visit volume trend over time — line chart
 4. ER visit volume by hour of day — area chart
 5. Top 5 diagnoses by frequency — treemap
+
+![Operational performance](images/Operational%20Performance.png)
 
 ---
 
